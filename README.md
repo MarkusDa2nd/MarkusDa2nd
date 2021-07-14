@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarkusDa2nd
-- 👀 I’m interested in Web and Blockchain Development 
+- 👀 I’m interested in Web and Blockchain Development, Digital Marketing 
 - 🌱 I’m currently learning Webdev, Blockchain, Coding, Programming 
 - 💞️ I’m looking to collaborate on anything that furthers my skills for upcoming IPFS revolution. 
 - 📫 How to reach me: Markusda2nd@gmail.com 
